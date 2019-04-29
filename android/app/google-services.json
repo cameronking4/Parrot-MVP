@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "263257003162",
+    "firebase_url": "https://crushd-358d1.firebaseio.com",
+    "project_id": "crushd-358d1",
+    "storage_bucket": "crushd-358d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263257003162:android:8738a3987ea9c973",
+        "android_client_info": {
+          "package_name": "com.crushd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263257003162-0g99rlrh4cthn51hpre34a4qsm9ga1ie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkD3TqNb0ofzi1Rsw08MVPquiANPsvgx0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

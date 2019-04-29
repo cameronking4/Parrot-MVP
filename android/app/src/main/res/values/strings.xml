@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Parrot</string>
+     <string name="facebook_app_id">1972468636156283</string>
+    <string name="fb_login_protocol_scheme">fb1972468636156283</string>
+</resources>
